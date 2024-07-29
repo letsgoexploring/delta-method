@@ -1,5 +1,5 @@
 # ``delta-method``
-A Python module that performs delta method calculations. See the Jupyter Notebook `Delta Method Examples.ipynb` for usage examples.
+A Python module that performs delta method calculations. See the Jupyter Notebook `Delta Method Examples.ipynb` for usage examples in the `Examples` directory.
 
 Free use of this software is welcome and subject to the terms of the [license](https://github.com/letsgoexploring/fredpy/blob/gh-pages/LICENSE). Please send me comments, feedback, suggestions, etc. at [bcjenkin@uci.edu](mailto:bcjenkin@uci.edu).
 
