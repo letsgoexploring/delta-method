@@ -10,4 +10,4 @@ Install the module from PyPI with the shell command:
 
 Or download the source here: https://github.com/letsgoexploring/delta-method/blob/gh-pages/dist/delta_method-0.1.tar.gz
 
-_Updated: July 29, 2024
+_Updated: April 7, 2025_
